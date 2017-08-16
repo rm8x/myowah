@@ -1,0 +1,115 @@
+Builds/VisualStudio2017/.vs/myowah/v15/.suo
+Builds/VisualStudio2017/.vs/myowah/v15/Browse.VC.db
+Builds/VisualStudio2017/.vs/myowah/v15/Solution.VC.db
+Builds/VisualStudio2017/.vs/myowah/v15/ipch/AutoPCH/MYOWAH_SHAREDCODE-77080064/PLUGINEDITOR-95c32387/PLUGINEDITOR.ipch
+Builds/VisualStudio2017/.vs/myowah/v15/ipch/AutoPCH/MYOWAH_SHAREDCODE-77080064/PLUGINPROCESSOR-3dc3860/PLUGINPROCESSOR.ipch
+Builds/VisualStudio2017/.vs/wahwah/v15/.suo
+Builds/VisualStudio2017/.vs/wahwah/v15/Browse.VC.db
+Builds/VisualStudio2017/.vs/wahwah/v15/Solution.VC.db
+Builds/VisualStudio2017/myowah.sln
+Builds/VisualStudio2017/myowah_SharedCode.vcxproj
+Builds/VisualStudio2017/myowah_SharedCode.vcxproj.filters
+Builds/VisualStudio2017/myowah_StandalonePlugin.vcxproj
+Builds/VisualStudio2017/myowah_StandalonePlugin.vcxproj.filters
+Builds/VisualStudio2017/myowah_VST.vcxproj
+Builds/VisualStudio2017/myowah_VST.vcxproj.filters
+Builds/VisualStudio2017/resources.rc
+Builds/VisualStudio2017/wahwah.sln
+Builds/VisualStudio2017/wahwah_SharedCode.vcxproj
+Builds/VisualStudio2017/wahwah_SharedCode.vcxproj.filters
+Builds/VisualStudio2017/wahwah_VST.vcxproj
+Builds/VisualStudio2017/wahwah_VST.vcxproj.filters
+Builds/VisualStudio2017/x64/Debug/Shared Code/PluginEditor.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/PluginProcessor.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/ResonantLowpassFilter.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_basics.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_devices.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_formats.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_plugin_client_utils.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_processors.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_audio_utils.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_core.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_cryptography.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_data_structures.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_events.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_graphics.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_gui_basics.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_gui_extra.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_opengl.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/include_juce_osc.obj
+Builds/VisualStudio2017/x64/Debug/Shared Code/myowah_S.B68286D6.tlog/CL.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/myowah_S.B68286D6.tlog/CL.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/myowah_S.B68286D6.tlog/CL.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/myowah_S.B68286D6.tlog/Lib-link-cvtres.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/myowah_S.B68286D6.tlog/Lib-link-cvtres.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/myowah_S.B68286D6.tlog/Lib.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/myowah_S.B68286D6.tlog/myowah_SharedCode.lastbuildstate
+Builds/VisualStudio2017/x64/Debug/Shared Code/myowah_S.B68286D6.tlog/rc.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/myowah_S.B68286D6.tlog/rc.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/myowah_S.B68286D6.tlog/rc.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/myowah_SharedCode.pdb
+Builds/VisualStudio2017/x64/Debug/Shared Code/resources.res
+Builds/VisualStudio2017/x64/Debug/Shared Code/wahwah.Build.CppClean.log
+Builds/VisualStudio2017/x64/Debug/Shared Code/wahwah.lib
+Builds/VisualStudio2017/x64/Debug/Shared Code/wahwah_S.B68286D6.tlog/CL.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/wahwah_S.B68286D6.tlog/CL.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/wahwah_S.B68286D6.tlog/CL.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/wahwah_S.B68286D6.tlog/Lib-link-cvtres.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/wahwah_S.B68286D6.tlog/Lib-link-cvtres.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/wahwah_S.B68286D6.tlog/Lib.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/wahwah_S.B68286D6.tlog/rc.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/wahwah_S.B68286D6.tlog/rc.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/wahwah_S.B68286D6.tlog/rc.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/Shared Code/wahwah_S.B68286D6.tlog/wahwah_SharedCode.lastbuildstate
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/include_juce_audio_plugin_client_Standalone.obj
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/myowah_S.A3B4D2EC.tlog/CL.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/myowah_S.A3B4D2EC.tlog/CL.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/myowah_S.A3B4D2EC.tlog/CL.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/myowah_S.A3B4D2EC.tlog/link.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/myowah_S.A3B4D2EC.tlog/link.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/myowah_S.A3B4D2EC.tlog/link.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/myowah_S.A3B4D2EC.tlog/myowah_StandalonePlugin.lastbuildstate
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/myowah_S.A3B4D2EC.tlog/rc.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/myowah_S.A3B4D2EC.tlog/rc.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/myowah_S.A3B4D2EC.tlog/rc.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/resources.res
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/vc141.pdb
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/wahwah.Build.CppClean.log
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/wahwah.exe
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/wahwah.ilk
+Builds/VisualStudio2017/x64/Debug/Standalone Plugin/wahwah.pdb
+Builds/VisualStudio2017/x64/Debug/VST/include_juce_audio_plugin_client_VST2.obj
+Builds/VisualStudio2017/x64/Debug/VST/myowah_VST.log
+Builds/VisualStudio2017/x64/Debug/VST/myowah_VST.tlog/CL.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/myowah_VST.tlog/CL.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/myowah_VST.tlog/CL.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/myowah_VST.tlog/link.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/myowah_VST.tlog/link.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/myowah_VST.tlog/link.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/myowah_VST.tlog/myowah_VST.lastbuildstate
+Builds/VisualStudio2017/x64/Debug/VST/myowah_VST.tlog/myowah_VST.write.1u.tlog
+Builds/VisualStudio2017/x64/Debug/VST/myowah_VST.tlog/rc.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/myowah_VST.tlog/rc.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/myowah_VST.tlog/rc.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/resources.res
+Builds/VisualStudio2017/x64/Debug/VST/vc141.pdb
+Builds/VisualStudio2017/x64/Debug/VST/wahwah.Build.CppClean.log
+Builds/VisualStudio2017/x64/Debug/VST/wahwah.exp
+Builds/VisualStudio2017/x64/Debug/VST/wahwah.ilk
+Builds/VisualStudio2017/x64/Debug/VST/wahwah.lib
+Builds/VisualStudio2017/x64/Debug/VST/wahwah.pdb
+Builds/VisualStudio2017/x64/Debug/VST/wahwah_VST.log
+Builds/VisualStudio2017/x64/Debug/VST/wahwah_VST.tlog/CL.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/wahwah_VST.tlog/CL.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/wahwah_VST.tlog/CL.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/wahwah_VST.tlog/link.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/wahwah_VST.tlog/link.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/wahwah_VST.tlog/link.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/wahwah_VST.tlog/rc.command.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/wahwah_VST.tlog/rc.read.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/wahwah_VST.tlog/rc.write.1.tlog
+Builds/VisualStudio2017/x64/Debug/VST/wahwah_VST.tlog/wahwah_VST.lastbuildstate
+Builds/VisualStudio2017/x64/Debug/VST/wahwah_VST.tlog/wahwah_VST.write.1u.tlog
+Builds/x64/Debug/Shared Code/myowah_SharedCode.log
+Builds/x64/Debug/Shared Code/wahwah_SharedCode.log
+Builds/x64/Debug/Standalone Plugin/myowah_StandalonePlugin.log
